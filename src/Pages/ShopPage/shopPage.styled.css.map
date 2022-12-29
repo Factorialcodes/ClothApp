@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACT,MAAM,EAAE,GAAG;CACX;;AACD,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "shopPage.styled.scss"
+    ],
+    "names": [],
+    "file": "shopPage.styled.css"
+}
